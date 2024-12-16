@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Instrument+Serif:ital@0;1&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Vollkorn+SC:wght@400;600;700;900&display=swap');
+
+body { 
+margin-top: 16px; 
+margin-bottom: 16px; 
+margin-right: 16px; 
+margin-left: 16px; 
+} 
+
+.storyheader { 
+max-width: 1000px; 
+margin-right: auto;
+margin-left: auto;
+text-align: center;
+background-color: #6A8D73;
+border-style: solid;
+border-color: black;
+border-weight: 5px;
+}
+
+.info { 
+text-align: center;
+ }
+
+ .charts { 
+ margin-right: auto;
+margin-left: auto;
+max-width: 700px;
+border: black solid;
+padding: 20px;
+} 
+
+.totals { 
+padding-top: 40px;
+border-top: black solid; }
+
+.oppose { 
+padding-bottom: 40px;
+ }
+
+.content { 
+max-width: 700px;
+margin-left: auto;
+margin-right: auto;
+font-family: "Times",serif;
+color: black;
+font-size: 22px;
+line-height: 24px;
+} 
+
+.headline { 
+font-family: "Cinzel Decorative", serif; 
+font-size: 50px; 
+font-weight: lighter;
+}
+
+.deck { 
+font-family: "Times", serif;
+font-style: italic ;
+font-size: 40px;
+margin-bottom: 0px;
+max-width: 700px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.byline { 
+font-family: "Times", serif;
+font-style: italic;
+font-size: 22px;
+margin-top: 40px;
+margin-bottom: 40px;
+ }
+
+ img {
+	width: 100%;
+}
+
+.caption { 
+font-size: 14px;
+font-style: italic ;
+color: #333;
+font-family: "Roboto", sans-serif;
+margin-top: 16px;
+max-width: 700px;
+margin-left: auto;
+margin-right: auto;
+ }
+
+
+a { 
+text-decoration-color: darkolivegreen; 
+color: darkolivegreen; 
+text-decoration-line: solid;
+}
+
+
